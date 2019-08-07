@@ -1,1 +1,2 @@
-# Ruby-on-Rails-Notes
+# Initial page
+
