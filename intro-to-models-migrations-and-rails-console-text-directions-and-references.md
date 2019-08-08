@@ -100,19 +100,19 @@ Then simply type in `Article` \(classname\) to view the attributes
 
 #### To create a new article with attributes title and description:
 
-`article = Article.new(title: "This is a test title", description: "This is a test description")`
-
-`article.save`
+```ruby
+article = Article.new(title: "This is a test title", description: "This is a test description")
+article.save
+```
 
 OR
 
-`article = Article.new`
-
-`article.title = "This is a test title"`
-
-`article.description = "This is a test description"`
-
-`article.save`
+```ruby
+article = Article.new
+article.title = "This is a test title"
+article.description = "This is a test description"
+article.save
+```
 
 Another method to do the same:
 

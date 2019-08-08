@@ -7,4 +7,5 @@
 * [Production Deploy](production-deploy.md)
 * [CRUD and Scaffold](crud-and-scaffold.md)
 * [Intro to Models, Migrations and Rails Console](intro-to-models-migrations-and-rails-console-text-directions-and-references.md)
+* [Edit, Delete and Validations](edit-delete-and-validations.md)
 
