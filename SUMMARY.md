@@ -11,4 +11,7 @@
 * [Create New Articles from UI](create-new-articles-from-ui.md)
 * [Complete New and Show Actions](complete-new-and-show-actions.md)
 * [Edit Articles](edit-articles.md)
+* [List Articles and Layout Links](list-articles-and-layout-links.md)
+* [Destroy and Partials](destroy-and-partials.md)
+* [Deploy and Wrap Section 4](deploy-and-wrap-section-4.md)
 

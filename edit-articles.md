@@ -4,7 +4,7 @@
 
 #### Route for editing articles takes the form -&gt;
 
-/articles/:id/edit
+`/articles/:id/edit`
 
 #### Edit action in the articles controller:
 
