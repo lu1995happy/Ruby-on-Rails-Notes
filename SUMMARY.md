@@ -8,4 +8,7 @@
 * [CRUD and Scaffold](crud-and-scaffold.md)
 * [Intro to Models, Migrations and Rails Console](intro-to-models-migrations-and-rails-console-text-directions-and-references.md)
 * [Edit, Delete and Validations](edit-delete-and-validations.md)
+* [Create New Articles from UI](create-new-articles-from-ui.md)
+* [Complete New and Show Actions](complete-new-and-show-actions.md)
+* [Edit Articles](edit-articles.md)
 
