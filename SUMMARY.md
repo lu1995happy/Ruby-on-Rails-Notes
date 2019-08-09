@@ -14,4 +14,6 @@
 * [List Articles and Layout Links](list-articles-and-layout-links.md)
 * [Destroy and Partials](destroy-and-partials.md)
 * [Deploy and Wrap Section 4](deploy-and-wrap-section-4.md)
+* [Install Bootstrap](install-bootstrap.md)
+* [Complete Homepage](complete-homepage.md)
 
