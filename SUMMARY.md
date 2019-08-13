@@ -16,4 +16,7 @@
 * [Deploy and Wrap Section 4](deploy-and-wrap-section-4.md)
 * [Install Bootstrap](install-bootstrap.md)
 * [Complete Homepage](complete-homepage.md)
+* [Style Form Template](style-form-template.md)
+* [Style Messages](style-messages.md)
+* [Style Show View](style-show-view.md)
 
