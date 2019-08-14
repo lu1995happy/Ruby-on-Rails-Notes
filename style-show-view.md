@@ -29,6 +29,7 @@
   border-top: 1px solid #eaeaea;
   padding-top: 5px;
 }
+
 .description {
   margin-top: 0;
 }

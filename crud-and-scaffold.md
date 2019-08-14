@@ -11,7 +11,15 @@
 
 ## Scaffold generator command to create Article model, articles controller, views for articles and migration file to create articles table:
 
+`rails generate migration create_users`
+
 `rails generate scaffold Article title:string description:text`
+
+`rails generate scaffold Comment description:text user:references`
+
+`rails destroy scaffold Comment`
+
+`rails console`
 
 #### Command to see routes present for your app:
 
@@ -31,7 +39,8 @@ If using Rails 5, `rails routes`
 
 #### From UI perspective -&gt;
 
-* index lists all the articles in the db of the app
+index lists all the articles in the db of the app
+
 * new article deals with the form to enter in new article details
 * create handles the submission of the items in the new article form
 * edit article deals with the form to enter in edit details for an existing article
