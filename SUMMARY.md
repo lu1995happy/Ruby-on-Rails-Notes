@@ -21,4 +21,9 @@
 * [Style Show View](style-show-view.md)
 * [Style List View](style-list-view.md)
 * [Create Users](create-users.md)
+* [Add User Validations](add-user-validations.md)
+* [One to Many Association](one-to-many-association.md)
+* [Show User Info in Articles](show-user-info-in-articles.md)
+* [Add Secure Password](add-secure-password.md)
+* [New User Signup](new-user-signup.md)
 
