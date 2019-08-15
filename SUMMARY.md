@@ -32,4 +32,7 @@
   * [Add Users Index](alpha-blog-project/add-users-index.md)
   * [Add Pagination to Views](alpha-blog-project/add-pagination-to-views.md)
   * [Add Login Form](alpha-blog-project/add-login-form.md)
+  * [Create and Destroy Sessions](alpha-blog-project/create-and-destroy-sessions.md)
+  * [Authentication Methods](alpha-blog-project/authentication-methods.md)
+  * [Restrict Actions from UI](alpha-blog-project/restrict-actions-from-ui.md)
 
