@@ -35,4 +35,8 @@
   * [Create and Destroy Sessions](alpha-blog-project/create-and-destroy-sessions.md)
   * [Authentication Methods](alpha-blog-project/authentication-methods.md)
   * [Restrict Actions from UI](alpha-blog-project/restrict-actions-from-ui.md)
+  * [Restrict Actions in Controller](alpha-blog-project/restrict-actions-in-controller.md)
+  * [Sign in Upon Signup](alpha-blog-project/sign-in-upon-signup.md)
+  * [Add Admin User](alpha-blog-project/add-admin-user.md)
+* [Complete Admin User](complete-admin-user.md)
 
