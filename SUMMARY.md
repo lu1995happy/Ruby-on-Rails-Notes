@@ -38,5 +38,9 @@
   * [Restrict Actions in Controller](alpha-blog-project/restrict-actions-in-controller.md)
   * [Sign in Upon Signup](alpha-blog-project/sign-in-upon-signup.md)
   * [Add Admin User](alpha-blog-project/add-admin-user.md)
-* [Complete Admin User](complete-admin-user.md)
+  * [Complete Admin User](alpha-blog-project/complete-admin-user.md)
+  * [Category Model and Unit Tests](alpha-blog-project/category-model-and-unit-tests.md)
+  * [Categories Controller and Tests](alpha-blog-project/categories-controller-and-tests.md)
+  * [Integration Test and Feature: Create Category](alpha-blog-project/integration-test-and-feature-create-category.md)
+  * [Integration Test for Invalid Category](alpha-blog-project/integration-test-for-invalid-category.md)
 
