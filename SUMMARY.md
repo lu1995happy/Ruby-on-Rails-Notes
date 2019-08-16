@@ -43,4 +43,9 @@
   * [Categories Controller and Tests](alpha-blog-project/categories-controller-and-tests.md)
   * [Integration Test and Feature: Create Category](alpha-blog-project/integration-test-and-feature-create-category.md)
   * [Integration Test for Invalid Category](alpha-blog-project/integration-test-for-invalid-category.md)
+  * [Integration Test and Feature: Listing Categories](alpha-blog-project/integration-test-and-feature-listing-categories.md)
+  * [Admin User Requirement and Test](alpha-blog-project/admin-user-requirement-and-test.md)
+  * [Update Tests and Navbar](alpha-blog-project/update-tests-and-navbar.md)
+  * [Build Article and Category Association](alpha-blog-project/build-article-and-category-association.md)
+  * [Add Association from UI](alpha-blog-project/add-association-from-ui.md)
 
