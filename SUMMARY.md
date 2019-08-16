@@ -48,4 +48,9 @@
   * [Update Tests and Navbar](alpha-blog-project/update-tests-and-navbar.md)
   * [Build Article and Category Association](alpha-blog-project/build-article-and-category-association.md)
   * [Add Association from UI](alpha-blog-project/add-association-from-ui.md)
+  * [Update Views](alpha-blog-project/update-views.md)
+  * [Edit Categories](alpha-blog-project/edit-categories.md)
+* [Message-Me Project](message-me-project/README.md)
+  * [Version Control and Routes](message-me-project/version-control-and-routes.md)
+  * [Add Semantic UI as front-end framework](message-me-project/add-semantic-ui-as-front-end-framework.md)
 
