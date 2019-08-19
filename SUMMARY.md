@@ -53,4 +53,12 @@
 * [Message-Me Project](message-me-project/README.md)
   * [Version Control and Routes](message-me-project/version-control-and-routes.md)
   * [Add Semantic UI as front-end framework](message-me-project/add-semantic-ui-as-front-end-framework.md)
+  * [Add dropdown, nav partial and favicon](message-me-project/add-dropdown-nav-partial-and-favicon.md)
+  * [Complete chatroom homepage](message-me-project/complete-chatroom-homepage.md)
+  * [Add login page and update nav routes](message-me-project/add-login-page-and-update-nav-routes.md)
+  * [Add user resource](message-me-project/add-user-resource.md)
+  * [Add message resource](message-me-project/add-message-resource.md)
+  * [Display actual messages](message-me-project/display-actual-messages.md)
+  * [Add message partial](message-me-project/add-message-partial.md)
+  * [Update sign in form and add authentication methods](message-me-project/update-sign-in-form-and-add-authentication-methods.md)
 
