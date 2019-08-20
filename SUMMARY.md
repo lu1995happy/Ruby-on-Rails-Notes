@@ -61,4 +61,13 @@
   * [Display actual messages](message-me-project/display-actual-messages.md)
   * [Add message partial](message-me-project/add-message-partial.md)
   * [Update sign in form and add authentication methods](message-me-project/update-sign-in-form-and-add-authentication-methods.md)
+  * [Add sessions create and destroy](message-me-project/add-sessions-create-and-destroy.md)
+  * [Enable flash messages](message-me-project/enable-flash-messages.md)
+  * [Restrict views from controller layer](message-me-project/restrict-views-from-controller-layer.md)
+  * [Add messages from UI](message-me-project/add-messages-from-ui.md)
+  * [Generate chatroom channel and add route](message-me-project/generate-chatroom-channel-and-add-route.md)
+  * [Add method to broadcast messages](message-me-project/add-method-to-broadcast-messages.md)
+  * [Display messages realtime](message-me-project/display-messages-realtime.md)
+  * [Add auto-scrolling to chat window](message-me-project/add-auto-scrolling-to-chat-window.md)
+  * [Beautify input box, functionality and create a custom scope](message-me-project/beautify-input-box-functionality-and-create-a-custom-scope.md)
 
