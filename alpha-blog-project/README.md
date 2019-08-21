@@ -1,2 +1,2 @@
-# Alpha-Blog Project
+# Alpha Blog App
 

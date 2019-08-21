@@ -1,2 +1,2 @@
-# Message-Me Project
+# MessageMe Chat App
 
