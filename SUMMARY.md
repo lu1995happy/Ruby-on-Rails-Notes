@@ -75,4 +75,11 @@
   * [Stock Model](stock-tracker-social-media-app/stock-model.md)
   * [Build Stock Lookup Form](stock-tracker-social-media-app/build-stock-lookup-form.md)
   * [Lookup Stock Details](stock-tracker-social-media-app/lookup-stock-details-1.md)
+  * [Invalid Search Results](stock-tracker-social-media-app/invalid-search-results.md)
+  * [Use Ajax](stock-tracker-social-media-app/use-ajax.md)
+  * [Errors and Refactoring](stock-tracker-social-media-app/errors-and-refactoring.md)
+  * [Many to Many Associations](stock-tracker-social-media-app/many-to-many-associations.md)
+  * [Fix Flash display](stock-tracker-social-media-app/fix-flash-display.md)
+  * [Stock Restrictions](stock-tracker-social-media-app/stock-restrictions.md)
+* [Untitled](untitled.md)
 
