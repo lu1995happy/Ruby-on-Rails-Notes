@@ -81,5 +81,9 @@
   * [Many to Many Associations](stock-tracker-social-media-app/many-to-many-associations.md)
   * [Fix Flash display](stock-tracker-social-media-app/fix-flash-display.md)
   * [Stock Restrictions](stock-tracker-social-media-app/stock-restrictions.md)
-* [Untitled](untitled.md)
+  * [Stocks Listing and Remove](stock-tracker-social-media-app/untitled.md)
+  * [User Details](stock-tracker-social-media-app/user-details.md)
+  * [UI Views for Users](stock-tracker-social-media-app/ui-views-for-users.md)
+  * [Font Awesome](stock-tracker-social-media-app/font-awesome.md)
+  * [Adding Friends](stock-tracker-social-media-app/adding-friends.md)
 
